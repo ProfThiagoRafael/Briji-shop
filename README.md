@@ -1,49 +1,69 @@
 # Briji.shop
-
-### Conectando empresas, pessoas e oportunidades.
+### Connecting Companies, People and Opportunities
 
 <p align="center">
-  <img src="assets/briji-shop-banner.png" alt="Briji.shop — Portal de Empresas Parceiras" width="100%" />
+  <img src="briji-shop-banner.png" alt="Briji.shop - Business and Opportunities Network" width="100%">
 </p>
 
-**Acesse:** https://briji.shop
+**Official Website:** https://briji.shop
 
-## Sobre o Briji.shop
+## About the Project
 
-O **Briji.shop** é um portal de empresas parceiras criado para aproximar negócios, profissionais e consumidores em um ambiente digital de oportunidades.
+**Briji.shop** is a collaborative business directory designed to connect companies, professionals, partners and consumers through a shared digital environment.
 
-A iniciativa valoriza a colaboração entre empresas de diferentes segmentos, amplia a visibilidade de produtos e serviços e incentiva novas conexões comerciais. A proposta é fortalecer a presença digital dos parceiros e estimular o desenvolvimento de negócios por meio do comércio eletrônico, da inovação e das possibilidades oferecidas pela inteligência artificial.
+The platform aims to strengthen business visibility, encourage strategic partnerships and create new commercial opportunities across different market sectors.
 
-## Nossa missão
+By bringing businesses closer together, Briji.shop promotes collaboration, digital commerce and innovation, helping companies expand their presence and reach new audiences.
 
-Conectar empresas e pessoas, promovendo visibilidade, colaboração e oportunidades de crescimento.
+## Our Mission
 
-## Nossos pilares
+To connect businesses and people, creating opportunities for collaboration, visibility, innovation and sustainable business growth.
 
-- **Rede de empresas parceiras:** aproximação entre negócios e profissionais de diferentes áreas.
-- **Visibilidade digital:** mais possibilidades para apresentar empresas, produtos e serviços.
-- **Comércio eletrônico:** incentivo à evolução das relações comerciais no ambiente digital.
-- **Inteligência artificial:** exploração de soluções inovadoras para apoiar negócios e experiências digitais.
-- **Desenvolvimento regional:** fortalecimento de conexões e oportunidades entre empresas.
+## Core Pillars
 
-## Nossa visão
+- **Business Network:** Connecting partner companies and professionals across different industries.
+- **Digital Visibility:** Helping businesses showcase their products, services and solutions.
+- **Digital Commerce:** Encouraging new commercial relationships and online business opportunities.
+- **Artificial Intelligence:** Exploring innovative AI applications to support business development and digital experiences.
+- **Regional Development:** Strengthening local businesses through collaboration and shared opportunities.
 
-Construir uma rede digital colaborativa que facilite o encontro entre empresas, consumidores e oportunidades, contribuindo para um ambiente empresarial mais conectado e inovador.
+## Our Vision
 
-## Empresas parceiras
+To build a collaborative digital business ecosystem where companies, professionals and consumers can discover opportunities, establish meaningful connections and grow together.
 
-O portal reúne empresas e profissionais de diferentes segmentos. Cada participante contribui para ampliar a diversidade da rede e criar novas possibilidades de relacionamento e negócios.
+## A Connected Business Ecosystem
 
-## Sobre esta documentação
+Briji.shop is built around a simple principle: businesses can achieve more when they collaborate.
 
-Este repositório apresenta a proposta institucional do Briji.shop. Não são divulgados aqui detalhes de implementação, arquitetura, infraestrutura, integrações, código proprietário ou processos internos da plataforma.
+Our vision is to create an environment that encourages:
 
-## Conheça o portal
+- Stronger business connections.
+- Greater digital presence.
+- Strategic partnerships.
+- New commercial opportunities.
+- Innovation and technology adoption.
+- Regional business development.
 
-**Briji.shop — conectando empresas, pessoas e oportunidades.**
+## Project Scope and Intellectual Property
 
-https://briji.shop
+This repository provides an institutional overview of Briji.shop and its business objectives.
+
+Proprietary implementation details, internal architecture, infrastructure, integrations, operational processes and confidential business information are intentionally excluded from this public documentation.
+
+## Project Initiative
+
+**Thiago Rafael de Souza Gomes**
+
+Project conception and strategic direction.
+
+Information Technology, systems architecture, digital innovation and artificial intelligence.
+
+## Explore Briji.shop
+
+**Connecting Companies. Empowering Businesses. Creating Opportunities.**
+
+Website: https://briji.shop
 
 ---
 
-© Briji.shop. Todos os direitos reservados.
+© Briji.shop. All rights reserved.
