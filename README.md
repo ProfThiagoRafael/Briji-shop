@@ -52,11 +52,25 @@ Proprietary implementation details, internal architecture, infrastructure, integ
 
 ## Project Initiative
 
-**Thiago Rafael de Souza Gomes**
+## Project Founder and Strategic Leadership
 
-Project conception and strategic direction.
+**Professor Thiago Rafael de Souza Gomes**
 
-Information Technology, systems architecture, digital innovation and artificial intelligence.
+IT Professor | Technology and Innovation Specialist
+
+- Specialist in Artificial Intelligence.
+- Specialist in Cybersecurity.
+- Specialist in Educational Robotics.
+- Postgraduate studies in Software Architecture and Industrial Automation.
+- Master's student in Strategic Information Technology Management.
+
+Over 20 years of experience in Information Technology, with expertise in systems architecture, artificial intelligence, intelligent automation, cybersecurity, digital transformation and technology education.
+
+**Project conception, strategic direction and innovation.**
+
+---
+
+© Briji.shop. All rights reserved.
 
 ## Explore Briji.shop
 
